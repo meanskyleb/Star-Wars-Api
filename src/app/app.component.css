@@ -1,0 +1,23 @@
+.dropDown {
+    color: rgb(25, 25, 26);
+}
+
+option {
+    color: rgb(25, 25, 26);
+    font-family: fantasy;
+}
+
+input {
+    color: rgb(25, 25, 26);
+    font-family: fantasy;
+}
+
+button {
+    color: rgb(25, 25, 26);
+    font-family: fantasy;
+}
+
+h1 {
+    color: darkgrey;
+    font-family: fantasy;
+}
